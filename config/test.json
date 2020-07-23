@@ -1,0 +1,5 @@
+{
+    "PORT": "1337",
+    "baseURL": "/",
+    "MONGO_URI":"mongodb://localhost:27017/AdManagerDB_TEST"
+}

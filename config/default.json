@@ -1,0 +1,17 @@
+{
+  "baseURL": "/AdManager/",
+  "secret": "mth5P?bLWx+Wp4JgW^XJm4B-Yd%u&3-AwLRcXq%pzWg#dp@aUH",
+  "min_budget": 1000000,
+  "PORT": 4000,
+  "MONGO_URI": "mongodb://localhost:27017/AdManagerDB",
+  "uploadConfig": {
+    "MAX_FILE_COUNT": 3,
+    "MAX_IMG_SIZE": 1048576,
+    "MAX_VID_SIZE": 209715200,
+    "MAX_FILE_SIZE": 52428800,
+    "CHUNK_SIZE": 262,
+    "MAX_VID_DURATION": 5000,
+    "MAX_VID_QUALITY": 360,
+    "UPLOAD_DIR": "./uploads"
+  }
+}

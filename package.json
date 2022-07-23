@@ -24,7 +24,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "ffprobe": "^1.1.0",
-    "file-type": "^8.1.0",
+    "file-type": "^16.5.4",
     "formidable": "^1.2.1",
     "get-video-info": "^1.0.0",
     "joi": "^13.6.0",

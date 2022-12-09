@@ -22,7 +22,7 @@
     "bounce": "^1.2.0",
     "config": "^2.0.1",
     "cors": "^2.8.4",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "ffprobe": "^1.1.0",
     "file-type": "^8.1.0",
     "formidable": "^1.2.1",
